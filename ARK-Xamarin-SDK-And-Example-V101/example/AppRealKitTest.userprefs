@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="AppRealKitTest/AppRealKitTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppRealKitTest/Program.cs">
+    <Files>
+      <File FileName="AppRealKitTest/Program.cs" Line="6" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
